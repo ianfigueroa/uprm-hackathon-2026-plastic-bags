@@ -1,0 +1,3 @@
+rfdetr[train]==1.11.0
+matplotlib
+boto3

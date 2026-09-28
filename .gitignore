@@ -1,0 +1,9 @@
+# data and training output stay local
+data/
+runs/
+*.pt
+*.pth
+*.ckpt
+
+.ipynb_checkpoints/
+__pycache__/
