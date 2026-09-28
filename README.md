@@ -1,6 +1,6 @@
-# UPRM Hackathon 2026 - Plastic Bag Detection (2nd place)
+# Lockheed Martin AI & ML Technologies Hackathon - Plastic Bag Detection (2nd place)
 
-Our 2nd place solution for the plastic bag detection challenge at the UPRM Hackathon 2026.
+Our 2nd place solution for the plastic bag detection challenge at the Lockheed Martin AI & ML Technologies Hackathon (UPRM, Sep 25-27, 2026).
 
 **Val mAP@50: 0.8737 · Test mAP@50: 0.8502** (organizers' metric, 171 test images)
 
@@ -73,6 +73,6 @@ We used AWS SageMaker with 1x NVIDIA A10G (24 GB).
 
 - [RF-DETR](https://github.com/roboflow/rf-detr) by Roboflow
 - `evaluate_map50` in the notebook comes from the organizers' starter notebook, so our scores match theirs
-- Thanks to the UPRM Hackathon 2026 organizers
+- Thanks to Lockheed Martin and Pink Pandas (UPRM Women in Cybersecurity) for running the hackathon
 
 MIT License
