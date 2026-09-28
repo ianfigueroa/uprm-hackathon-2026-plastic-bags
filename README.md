@@ -67,6 +67,8 @@ Open the notebook and run all. Training takes about 16 min per seed on an A10G. 
 
 We used AWS SageMaker with 1x NVIDIA A10G (24 GB).
 
+`python make_charts.py` redraws the two charts above. The per-epoch scores come from our training logs and are saved in `assets/epoch_scores.csv`.
+
 ## Credits
 
 - [RF-DETR](https://github.com/roboflow/rf-detr) by Roboflow
