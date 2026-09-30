@@ -75,7 +75,7 @@ We used AWS SageMaker with 1x NVIDIA A10G (24 GB).
 - `evaluate_map50` in the notebook comes from the organizers' starter notebook, so our scores match theirs
 - Thanks to Lockheed Martin and Pink Pandas (UPRM Women in Cybersecurity) for running the hackathon
 
-## Additional with other models
+## Additional experimentation with other models
 We tested another instance yolo26x which got a score on mAP@50 of 83%. After adjusting parameters the results plummeted. Yolo26s was also tested with more promising results upon adjusting parameters but not beating the initial 83%. We also tested model souping on Yolo26s but did not get promising results, around 50% on mAP@50. 
 
 MIT License
